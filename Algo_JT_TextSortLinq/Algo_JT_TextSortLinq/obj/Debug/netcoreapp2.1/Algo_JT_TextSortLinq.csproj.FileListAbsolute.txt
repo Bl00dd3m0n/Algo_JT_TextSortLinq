@@ -1,0 +1,11 @@
+C:\Users\Jonathan Taylor\Documents\GitHub\Algo_JT_TextSortLinq\Algo_JT_TextSortLinq\Algo_JT_TextSortLinq\bin\Debug\netcoreapp2.1\Algo_JT_TextSortLinq.deps.json
+C:\Users\Jonathan Taylor\Documents\GitHub\Algo_JT_TextSortLinq\Algo_JT_TextSortLinq\Algo_JT_TextSortLinq\bin\Debug\netcoreapp2.1\Algo_JT_TextSortLinq.runtimeconfig.json
+C:\Users\Jonathan Taylor\Documents\GitHub\Algo_JT_TextSortLinq\Algo_JT_TextSortLinq\Algo_JT_TextSortLinq\bin\Debug\netcoreapp2.1\Algo_JT_TextSortLinq.runtimeconfig.dev.json
+C:\Users\Jonathan Taylor\Documents\GitHub\Algo_JT_TextSortLinq\Algo_JT_TextSortLinq\Algo_JT_TextSortLinq\bin\Debug\netcoreapp2.1\Algo_JT_TextSortLinq.dll
+C:\Users\Jonathan Taylor\Documents\GitHub\Algo_JT_TextSortLinq\Algo_JT_TextSortLinq\Algo_JT_TextSortLinq\bin\Debug\netcoreapp2.1\Algo_JT_TextSortLinq.pdb
+C:\Users\Jonathan Taylor\Documents\GitHub\Algo_JT_TextSortLinq\Algo_JT_TextSortLinq\Algo_JT_TextSortLinq\obj\Debug\netcoreapp2.1\Algo_JT_TextSortLinq.csprojAssemblyReference.cache
+C:\Users\Jonathan Taylor\Documents\GitHub\Algo_JT_TextSortLinq\Algo_JT_TextSortLinq\Algo_JT_TextSortLinq\obj\Debug\netcoreapp2.1\Algo_JT_TextSortLinq.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Taylor\Documents\GitHub\Algo_JT_TextSortLinq\Algo_JT_TextSortLinq\Algo_JT_TextSortLinq\obj\Debug\netcoreapp2.1\Algo_JT_TextSortLinq.AssemblyInfoInputs.cache
+C:\Users\Jonathan Taylor\Documents\GitHub\Algo_JT_TextSortLinq\Algo_JT_TextSortLinq\Algo_JT_TextSortLinq\obj\Debug\netcoreapp2.1\Algo_JT_TextSortLinq.AssemblyInfo.cs
+C:\Users\Jonathan Taylor\Documents\GitHub\Algo_JT_TextSortLinq\Algo_JT_TextSortLinq\Algo_JT_TextSortLinq\obj\Debug\netcoreapp2.1\Algo_JT_TextSortLinq.dll
+C:\Users\Jonathan Taylor\Documents\GitHub\Algo_JT_TextSortLinq\Algo_JT_TextSortLinq\Algo_JT_TextSortLinq\obj\Debug\netcoreapp2.1\Algo_JT_TextSortLinq.pdb
